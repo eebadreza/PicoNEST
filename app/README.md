@@ -13,7 +13,7 @@ The `app` folder contains the mobile application for the PicoNest home automatio
 ### How to Download and Install
 
 1. **Download APK:**
-   - Navigate to the [APK folder](app/apk/) within this repository.
+   - Navigate to the [APK folder](/apk/) within this repository.
    - Click on the latest version of the APK file to initiate the download.
 
 2. **Install on Android:**
