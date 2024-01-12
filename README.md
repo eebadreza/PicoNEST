@@ -22,8 +22,6 @@ The repository is organized into the following folders:
 - `docs`: The "docs" folder in the PicoNest project serves as a central repository for project documentation, providing valuable information for developers, contributors, and end-users. This collection of documents is designed to aid in understanding, implementing, and extending the functionalities of the PicoNest home automation system. It also consists of files used for Project Submission in the college.
 - `src`: The "src" (source) folder is the heart of the PicoNest project, housing all the source code necessary for the implementation of the home automation system. This folder is organized to provide a clear and modular structure, facilitating ease of development, maintenance, and collaboration among project contributors.
 - `app`: The "app" folder encompasses the Android application components for the PicoNest Home Automation System. This section provides the APK (Android application package) file along with relevant specifications for the mobile application.
-  
-Each task folder contains detailed instructions, code samples, datasets, and related materials for that specific task. The `Extras` folder includes supplementary resources to further enhance your learning experience.
 
 ## Getting Started
 
