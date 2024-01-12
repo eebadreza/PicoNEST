@@ -49,7 +49,7 @@ The PicoNest mobile app is optimized for a wide range of Android devices, includ
 ### How to Use the App Effectively
 
 1. **Download and Install:**
-   - Download the APK file from the [APK folder](../../apk).
+   - Download the APK file from the [APK folder](../apk).
    - Install the app on your Android device following the standard installation procedure.
 
 2. **Pair with HC05:**
@@ -80,7 +80,7 @@ The PicoNest mobile app is optimized for a wide range of Android devices, includ
 
 - Ensure that your Android device meets the minimum requirements for optimal app performance.
 
-- For developers interested in contributing or understanding the app's codebase, explore the source code in the [`app`](../app/) folder.
+- For developers interested in contributing or understanding the app's codebase, explore the source code in the [`app`](../apk) folder.
 
 For any questions related to the PicoNest mobile app specifications or usage, feel free to reach out to the project maintainers.
 
