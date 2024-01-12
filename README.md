@@ -37,6 +37,9 @@ To get started with the PicoNest project materials, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+The MIT License is a permissive open-source license that allows for the use, modification, and distribution of the project's source code under certain conditions. It provides flexibility for developers and contributors while ensuring that any derived works are also open source.
+
+For a detailed overview of the rights and limitations granted by the MIT License, please refer to the [LICENSE](LICENSE) file in the root of this repository.
 
 ## Contributing Members
 - [Eebad Reza](https://github.com/eebadreza)
