@@ -1,4 +1,10 @@
-# PicoNest - IoT Home Automation Project
+<h1 align="center">PicoNest : IoT Home Automation Project</h1>
+
+<p align="center" width="100%">
+    <img src="./assets/images/picoNest_icon-nbg.png" alt="Alt text" width="10%">
+</p>
+
+
 
 Welcome to the PicoNest Materials repository. This repository contains a collection of materials for the IoT Project PicoNest, focusing on Home Automation using Raspberry Pi PICO, HC05 Module, and Voice Recognition.
 
