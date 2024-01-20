@@ -14,8 +14,8 @@ The `docs` folder serves as a central repository for documentation, including fi
 
 ## Additional Files
 
-### Demo Video ():
-   - This presentation was used during demo day events to showcase the key features, functionalities, and achievements of the PicoNest home automation system.
+### Demo Video :
+   - In this video, we showcase the intuitive user interface, device control features, voice recognition, and the overall seamless experience offered by PicoNest.
 
 ### Note
 
