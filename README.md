@@ -36,7 +36,7 @@ To get started with the PicoNest project materials, follow these steps:
 - Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/pico-nest-course-materials.git
+   git clone https://github.com/eebadreza/PicoNest.git
 
 ## License
 
